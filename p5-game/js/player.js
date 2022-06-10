@@ -20,6 +20,6 @@ class Player {
 	jump() {
 		console.log('jump')
 		// this.y -= 30
-		this.velocity = - 10
+		this.velocity = - 15
 	}
 }
